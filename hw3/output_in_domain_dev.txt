@@ -1,4 +1,4 @@
-Influential	NNP
+Influential	JJ
 members	NNS
 of	IN
 the	DT
@@ -1350,7 +1350,7 @@ This	DT
 is	VBZ
 n't	RB
 1987	CD
-revisited	VBN
+revisited	JJ
 .	.
 ''	''
 
@@ -1469,7 +1469,7 @@ campaign	NN
 ``	``
 Leadership	NNP
 by	IN
-Example	NN
+Example	NNP
 .	.
 ''	''
 
@@ -1943,7 +1943,7 @@ mean	VB
 and	CC
 the	DT
 mean	JJ
-ol'	JJ
+ol'	NN
 law	NN
 caught	VBN
 up	RP
@@ -2179,7 +2179,7 @@ in	IN
 green	JJ
 and	CC
 gold	NN
-salted	VBD
+salted	VBN
 away	RP
 successes	NNS
 to	TO
@@ -2612,7 +2612,7 @@ cheered	VBD
 their	PRP$
 favorites	NNS
 and	CC
-booed	VBN
+booed	VBD
 the	DT
 opposition	NN
 ,	,
@@ -2780,7 +2780,7 @@ and	CC
 White	NNP
 Sox	NNPS
 (	(
-hey	PRP
+hey	NN
 ,	,
 it	PRP
 's	POS
@@ -5161,9 +5161,9 @@ Nitze	NNP
 's	POS
 statement	NN
 (	(
-Notable	JJ
+Notable	NNP
 &	CC
-Quotable	JJ
+Quotable	NNP
 ,	,
 Sept.	NNP
 20	CD
@@ -9507,7 +9507,7 @@ of	IN
 Pacific	NNP
 salmon	NN
 and	CC
-herring	VBG
+herring	NN
 violate	VB
 the	DT
 accord	NN
@@ -9857,7 +9857,7 @@ Thought	NNP
 To	TO
 spend	VB
 a	DT
-carefree	JJ
+carefree	NN
 ,	,
 idle	JJ
 day	NN
@@ -12419,8 +12419,8 @@ trouble	NN
 began	VBD
 .	.
 
-More	RBR
-taunting	JJ
+More	JJR
+taunting	NN
 in	IN
 the	DT
 parking	NN
@@ -12760,9 +12760,9 @@ months	NNS
 painted	VBN
 walls	NNS
 ,	,
-polished	VBN
+polished	JJ
 and	CC
-carpeted	VBN
+carpeted	JJ
 floors	NNS
 ,	,
 bought	VBD
@@ -13106,7 +13106,7 @@ Since	IN
 ,	,
 firms	NNS
 offering	VBG
-prepurchase	JJ
+prepurchase	NN
 house	NN
 appraisals	NNS
 ,	,
@@ -14034,9 +14034,9 @@ such	JJ
 spots	NNS
 as	IN
 ``	``
-Floodlights	NNS
+Floodlights	NNP
 :	:
-Evening	VBG
+Evening	NN
 Wear	VB
 for	IN
 Urban	NNP
@@ -15226,7 +15226,7 @@ or	CC
 congressmen	NNS
 .	.
 
-Indirect	JJ
+Indirect	NNP
 subsidies	NNS
 ,	,
 through	IN
@@ -16170,7 +16170,7 @@ is	VBZ
 ending	VBG
 .	.
 
-Lots	NNP
+Lots	NNS
 of	IN
 other	JJ
 entries	NNS
@@ -17051,7 +17051,7 @@ much	RB
 from	IN
 Washington	NNP
 's	POS
-rhetorical	NN
+rhetorical	JJ
 war	NN
 against	IN
 Wall	NNP
@@ -18607,7 +18607,7 @@ Australia	NNP
 Sydney	NNP
 's	POS
 All	DT
-Ordinaries	NNP
+Ordinaries	NNS
 index	NN
 closed	VBD
 at	IN
@@ -18667,9 +18667,9 @@ like	JJ
 ''	''
 as	IN
 investors	NNS
-fled	VBN
-to	IN
-bluechip	JJ
+fled	VBD
+to	TO
+bluechip	VB
 Australian	JJ
 stocks	NNS
 and	CC
@@ -23189,7 +23189,7 @@ fiscal	JJ
 year	NN
 .	.
 
-Enjoying	NNP
+Enjoying	VBG
 several	JJ
 blockbuster	NN
 movie	NN
@@ -28068,7 +28068,7 @@ scrambling	VBG
 to	TO
 tap	VB
 the	DT
-resurging	VBG
+resurging	JJ
 market	NN
 ,	,
 reviving	VBG
@@ -28384,7 +28384,7 @@ who	WP
 grew	VBD
 up	RP
 being	VBG
-photographed	VBN
+photographed	NN
 in	IN
 color	NN
 ,	,
@@ -28729,7 +28729,7 @@ His	PRP$
 On	IN
 -	HYPH
 Broadway	NNP
-Photography	NNP
+Photography	NN
 studio	NN
 in	IN
 Portland	NNP
@@ -32228,7 +32228,7 @@ days.	NN
 ,	,
 standard	JJ
 conventional	JJ
-fixedrate	JJ
+fixedrate	NN
 mortgages	NNS
 ;	:
 7.875	CD
@@ -34610,7 +34610,7 @@ due	JJ
 for	IN
 a	DT
 correction	NN
-anyhow	RB
+anyhow	NN
 ,	,
 following	VBG
 several	JJ
@@ -37069,7 +37069,7 @@ the	DT
 merger	NN
 agreement	NN
 with	IN
-Memotec	NN
+Memotec	NNP
 if	IN
 a	DT
 better	JJR
